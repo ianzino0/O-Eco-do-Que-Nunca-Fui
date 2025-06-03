@@ -6,4 +6,4 @@ Objetivo: O jogo basicamente tem como objetivo você ultrapassar 3 masmorras que
 
 Como Jogar: Cada fase tem sua forma especifica de jogatina e forma de ser passada, porém o que é universal para as 3 fases é que você necessita pegar a chave para abrir a porta trancada.
 
-feito por Ian Mendes e Marco Matheus da EC1MA25
+feito por Ian Mendes e Marco Matheus da EC1MA25.
