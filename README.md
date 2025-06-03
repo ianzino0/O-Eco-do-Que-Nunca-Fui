@@ -5,3 +5,5 @@ Sobre o jogo: O nome do jogo é "O Eco do Que Nunca Fui". A trama principal gira
 Objetivo: O jogo basicamente tem como objetivo você ultrapassar 3 masmorras que foram demonomidas como: "Caverna Congelada" ; "Jardim dos Perigos" ; "Floresta Densa".
 
 Como Jogar: Cada fase tem sua forma especifica de jogatina e forma de ser passada, porém o que é universal para as 3 fases é que você necessita pegar a chave para abrir a porta trancada.
+
+feito por Ian Mendes EC1MA25
